@@ -1,0 +1,19 @@
+{
+    "accuracy": 0.7732933933251899,
+    "best_params": {
+        "units1": 40,
+        "units2": 58,
+        "dropout": 0.19664505929179008,
+        "lr": 0.004707355258697286
+    },
+    "labels": [
+        "clear",
+        "fog",
+        "haze",
+        "mist",
+        "rain",
+        "smoke",
+        "snow",
+        "storm"
+    ]
+}
