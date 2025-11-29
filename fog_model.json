@@ -1,0 +1,13 @@
+{
+    "accuracy": 0.7732933933251899,
+    "labels": [
+        "clear",
+        "fog",
+        "haze",
+        "mist",
+        "rain",
+        "smoke",
+        "snow",
+        "storm"
+    ]
+}
