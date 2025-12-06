@@ -1,5 +1,5 @@
 🌫️ Fog Density & Visibility Prediction System.
-Using Hybrid AIS + PSO Deep Learning Model
+Using Hybrid AIS + PSO Deep Learning Model.
 📌 Overview
 
 Fog significantly impacts transportation safety, aviation operations, logistics, and urban mobility. This project introduces a Fog Density & Visibility Prediction System built using a Hybrid Artificial Immune System (AIS) + Particle Swarm Optimization (PSO) model.
